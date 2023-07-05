@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Antony Saied</h1>
 <h3 align="center">Software Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1360924/screenshots/6532311/aspnet-app-development-.gif">
-- 💬 Ask me about **ASP.NET MVC,ASP.NET Web API, Angular**
+- 💬 Ask me about **ASP.NET MVC, ASP.NET Web API, Angular**
 
 - 📫 How to reach me **antony.saied.rizk@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/antony-saied-rizk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antony-saied-rizk" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/antony-saied-rizk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antony-saied-rizk" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
