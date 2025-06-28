@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Antony Saied</h1>
 <h3 align="center">Software Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1360924/screenshots/6532311/aspnet-app-development-.gif">
-- 💬 Ask me about: ASP.NET Core MVC, ASP.NET Core Web API and Angular
+- 💬 Ask me about: ASP.NET Core Web API, ASP.NET Core MVC, and Angular
 
 - 📫 How to reach me **antony.saied.rizk@gmail.com**
 
